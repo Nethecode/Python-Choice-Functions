@@ -7,7 +7,7 @@
 ## <span style="color: #FF6B35;">Commands</span>
 
 - <span style="color: #FF85A1;">Enter `choicehelp()` to see the commands.</span>
-- <span style="color: #A66CFF;">Warning! Enter `import choice`. Then, write `choice.` before commands, so they will get called. If your variant is `from choice import*`, you don't need to write `choice.` before commands.</span>
+- <span style="color: #A66CFF;">Warning! Enter `import choice` or `from choice import *`. Then, write `choice.` before commands, so they will get called. If your variant is `from choice import*`, you don't need to write `choice.` before commands.</span>
 
 ---
 
